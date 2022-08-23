@@ -1,12 +1,12 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/SubhojeetDas1107)
 <h1 align="center">Hi 👋, I'm Subhojeet Das</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhojeetdas1107&label=Profile%20views&color=0e75b6&style=flat-square" alt="subhojeetdas1107" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhojeetdas1107" alt="subhojeetdas1107" /></a> </p>
 
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 - 🔭 I’m currently working on **web development**
 
 - 🌱 I’m currently learning **React, Backend development**
