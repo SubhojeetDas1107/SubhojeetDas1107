@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C, C++, Java, frontend web development**
 
-- 📫 How to reach me **hbksubhojeetdas1107@gmail.com**
+- 📫 How to reach me: **hbksubhojeetdas1107@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
